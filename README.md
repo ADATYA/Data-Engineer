@@ -20,6 +20,8 @@ Here’s a comprehensive guide to **Data Engineering**, covering its key areas i
 11. [Tools and Technologies](#tools-and-technologies)
 12. [Best Practices](#best-practices)
 
+![image](https://github.com/user-attachments/assets/68fd00ec-cf6e-4297-87da-0d322de876b2)
+
 ---
 
 ## 1. Introduction to Data Engineering
